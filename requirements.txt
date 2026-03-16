@@ -5,3 +5,5 @@ grpcio
 streamlit
 
 pyaudiowpatch
+uvicorn 
+fastapi
