@@ -1,0 +1,4 @@
+red-provider-*.json
+venv/
+__pycache__/
+.env

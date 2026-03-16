@@ -1,0 +1,7 @@
+pyaudio
+google-cloud-speech
+google-api-core
+grpcio
+streamlit
+
+pyaudiowpatch
